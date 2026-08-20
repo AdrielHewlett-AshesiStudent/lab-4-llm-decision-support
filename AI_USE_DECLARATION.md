@@ -1,0 +1,1 @@
+I rarely used AI; I used ChatGPT when my tokens finished for the day and llama 3.3 shut down to give other recommendations, but other than that, I used AI to help me see the response object the call to the API returned, and that helped me get the usage data. That was the only way I used it, and it did not significantly make any difference.
